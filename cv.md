@@ -13,7 +13,7 @@ I am 29 years old. I'm diligent person and I'm willing to learn and develop new 
 + Belarusian State University of Food and Chemical Technologies
   * Organization and production of products (food industry)
 + Htmlacademy
-  * [HTML/CSS]([https://](https://htmlacademy.ru/courses#fe-start))
+  * [HTML/CSS](https://htmlacademy.ru/courses#fe-start))
 
 ## Code Examples
 
@@ -22,9 +22,7 @@ I am 29 years old. I'm diligent person and I'm willing to learn and develop new 
 + CSS
 + Git
 
-
-
-##### Language
+## Language
 + Russian - native speaker
 + English - A2 (B1 in process…)
 + Italian - A2-B1
