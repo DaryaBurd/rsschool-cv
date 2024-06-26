@@ -7,7 +7,7 @@
 + Github: [DaryaBurd](https://DaryaBurd.github.io/rsschool-cv/cv)
 
 ## About me
-I am 29 years old. I'm diligent person and I'm willing to learn persn am an excellent team worker and very willing to learn and develop new skills.
+I am 29 years old. I'm diligent person and I'm willing to learn and develop new skills, cooperate with new people
 
 ## Education
 + Belarusian State University of Food and Chemical Technologies
