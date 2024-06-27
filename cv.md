@@ -22,7 +22,7 @@ I am 29 years old. I'm diligent person and I put all my effort into developing n
 + Git
 
 ## Code
-\```
+```
 function multiply(a, b){
   a * b
 }
@@ -39,7 +39,7 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(0,0), 0); 
   });
 });
-\```
+```
 
 ## Language
 + Russian - native speaker
