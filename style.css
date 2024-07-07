@@ -1,2 +1,165 @@
-Name
-Contacts
+
+.container {
+    max-width: 1920px;
+   margin: 0 auto;   
+ }
+
+ 
+.main-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: rgb(240, 233, 225);
+        
+      }
+
+.section {
+    width: 40%;
+    
+  }
+
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  
+.navigation-list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#job{
+    text-align: center;
+    font-size: 12px;
+    color: grey;
+    line-height:0.5px
+}
+#name{
+    text-align: center;
+    padding-top: 90px;
+    margin: 30px;
+    font-size: 20px;
+    color:darkgreen;
+    
+}
+
+
+
+.image{
+    width: 400px;
+
+}
+
+#logo{
+   height: 70px;
+   background: #829985;
+}
+
+.hr {
+    margin-bottom: 10px;
+    border-width: 0 0 1px;
+    border-style: solid;
+    width: 200px;
+    color:#829985;  
+}
+
+.hr2 {
+    margin: 50px;
+    border-width: 0 0 1.5px;
+    border-style: solid;
+    width: 300px;
+    color: #b97f32;
+    
+}
+
+.hr3 {
+    margin: 50px;
+    border-width: 0 0 1.5px;
+    border-style: solid;
+    width: 300px;
+    color: #b97f32;
+    
+    
+}
+
+
+.hr1 {
+    margin: 50px;
+    border-width: 0 0 2px;
+    border-style: solid;
+    width: 300px;
+    color: grey;
+}
+
+.body{
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+.body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;  
+  }
+
+
+.navigation{
+    background-color: #829985;
+    width: 100%;
+    height: 40px;
+    
+}
+
+.html {
+    scroll-behavior: smooth;
+  }
+
+.navigation-list {
+    list-style: none;
+  }
+
+.navigation-link {
+    padding: 10px 10px;
+    line-height: 40px;
+    transition: 0.3s;
+    color:#ccc469;
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #ccc469;
+    
+    }
+
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   background-color: #829985;
+ 
+   width: 100%;
+   height: 70px;
+   
+  }
+
+  .nav{
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+  }
